@@ -10,6 +10,7 @@
     "com.unity.ugui": "1.0.0",
     "mu.cluster.cluster-creator-kit": "2.30.1",
     "net.shivaduke28.kanikama": "https://github.com/shivaduke28/kanikama.git?path=Kanikama/Packages/net.shivaduke28.kanikama",
+    "com.oddworm.texture2darrayimportpipeline": "https://github.com/pschraut/UnityTexture2DArrayImportPipeline.git#1.5.0",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",
     "com.unity.modules.animation": "1.0.0",

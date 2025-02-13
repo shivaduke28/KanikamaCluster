@@ -1,5 +1,14 @@
 {
   "dependencies": {
+    "com.oddworm.texture2darrayimportpipeline": {
+      "version": "https://github.com/pschraut/UnityTexture2DArrayImportPipeline.git#1.5.0",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.test-framework": "1.1.3"
+      },
+      "hash": "4befff7b72475c4412eb3b013894eef9d1b883bc"
+    },
     "com.unity.editorcoroutines": {
       "version": "1.0.0",
       "depth": 1,

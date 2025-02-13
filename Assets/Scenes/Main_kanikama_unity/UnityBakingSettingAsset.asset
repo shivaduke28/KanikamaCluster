@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90e6bbf9453942248a9fda95c4850950, type: 3}
+  m_Name: UnityBakingSettingAsset
+  m_EditorClassIdentifier: 
+  setting:
+    sceneAsset: {fileID: 102900000, guid: 9fc0d4010bbf28b4594072e72b8655ab, type: 3}
+    textureResizeType: 1
+    outputAssetDirPath: Assets\Scenes\Main_kanikama_unity
+    assetStorage:
+      lightmapStorage:
+        valueListPairs:
+        - Name: KanikamaMonitorGroup_0
+          Key: 8818719512606151351-0_0
+          Values:
+          - Type: Light
+            Texture: {fileID: 2800000, guid: 3ad7e4f2e185eb7469d45af113761042, type: 3}
+            Path: Assets\Scenes\Main_kanikama_unity\Light-0-8818719512606151351-0_0.exr
+            Index: 0
+        - Name: KanikamaMonitorGroup_1
+          Key: 8818719512606151351-0_1
+          Values:
+          - Type: Light
+            Texture: {fileID: 2800000, guid: 6b813fe25e2d9834ab4bfd18c505e92b, type: 3}
+            Path: Assets\Scenes\Main_kanikama_unity\Light-0-8818719512606151351-0_1.exr
+            Index: 0
+        - Name: KanikamaMonitorGroup_2
+          Key: 8818719512606151351-0_2
+          Values:
+          - Type: Light
+            Texture: {fileID: 2800000, guid: 9edce1156e877cd4b8394f026c3d889b, type: 3}
+            Path: Assets\Scenes\Main_kanikama_unity\Light-0-8818719512606151351-0_2.exr
+            Index: 0
+        - Name: KanikamaMonitorGroup_3
+          Key: 8818719512606151351-0_3
+          Values:
+          - Type: Light
+            Texture: {fileID: 2800000, guid: 9bc5966b66e1f3a459d1740a2280399b, type: 3}
+            Path: Assets\Scenes\Main_kanikama_unity\Light-0-8818719512606151351-0_3.exr
+            Index: 0
+      lightmapArrayStorage:
+        valueListPairs:
+        - Name: Kanikama Unity
+          Key: KanikamaUnity
+          Values:
+          - Type: Light
+            Texture: {fileID: 18700000, guid: 1930956b71508094b91fc580dff53192, type: 2}
+            Path: Assets\Scenes\Main_kanikama_unity\Light-0.asset
+            Index: 0
+          - Type: Directional
+            Texture: {fileID: 18700000, guid: fb32f1cb41b96ef4797f69acc0f8c0c5, type: 2}
+            Path: Assets\Scenes\Main_kanikama_unity\Directional-0.asset
+            Index: 0
